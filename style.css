@@ -45,3 +45,12 @@ form {
     flex-direction: column;
     gap: 15px;
 }
+
+form input{
+    height: 40px;
+    padding: 0 15px;
+    font-size: 14px;
+    border: 1px solid #dddfe2;
+    border-radius: 6px;
+    outline: none;
+}
